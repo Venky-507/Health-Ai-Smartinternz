@@ -3,15 +3,12 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
 [![IBM Watson](https://img.shields.io/badge/IBM%20Watson-AI%20Powered-blue.svg)](https://www.ibm.com/watson)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 HealthAI is an AI-powered healthcare assistant built with Streamlit and IBM Watson's Granite model, providing intelligent medical consultations, disease predictions, personalized treatment plans, and comprehensive health analytics.
 
 ## 🎥 Demo Video
 
-[![HealthAI Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red.svg)](https://youtu.be/your-demo-video-link)
-
-*Click the badge above to watch the full project demonstration.*
+**[▶️ Watch Demo Video: LOW HEALTH.mp4](LOW%20HEALTH.mp4)**
 
 ## ✨ Features
 
